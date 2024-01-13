@@ -2,9 +2,13 @@ remote_theme: sergiokopplin/indigo
 #theme: jekyll-theme-minimal
 title: Alexia
 description: "Mi sitio tiquito"
-#typing_text: Your favourite Tech Support Girl.
 email: alexiarstein@aol.com
-#github_username: alexiarstein
-#twitter_username: alexiarsteinn
-#youtube_username: @lachicadesistemas
-#instagram_username: lachicadesistemas
+external-image: false
+picture: assets/images/alexia.jpg
+dark-theme: true
+url: https://lacahicadesistemas.github.io
+twitter: alexiarsteinn
+instagram: lachicadesistemas
+github: alexiarstein
+width: normal
+
