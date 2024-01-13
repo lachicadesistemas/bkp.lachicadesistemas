@@ -1,7 +1,7 @@
 remote_theme: sergiokopplin/indigo
 #theme: jekyll-theme-minimal
 title: Alexia
-description: "Mi sitio tiquito"
+description: "A backend dev who deserted to operations and never went back."
 email: alexiarstein@aol.com
 external-image: false
 picture: assets/images/alexia.jpg
@@ -11,4 +11,9 @@ twitter: alexiarsteinn
 instagram: lachicadesistemas
 github: alexiarstein
 width: normal
+plugins:
+  - jeckyll-seo-tag
+  - jeckyll-gist
+  - jeckyll-feed
+  - jemoji
 
