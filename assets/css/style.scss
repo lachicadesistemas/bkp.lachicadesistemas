@@ -4,6 +4,16 @@
 @import "{{ site.theme }}";
 
 body {
-background-color:#000;
-color:#fff;
+background-color: #0b0f0c;
+color: #f5b3ee;
 }
+
+.highlight {
+background-color: #0b0f0c !important;
+color: #a3dde3 !important;
+}
+
+h1 {
+color: #a3dde3 !important;
+}
+
