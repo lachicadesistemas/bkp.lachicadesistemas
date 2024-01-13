@@ -18,6 +18,8 @@ I currently serve as an ambassador for Women In Technology, an NGO dedicated to 
 My youtube channel, La Chica de Sistemas, which would vaguely translate to “That Tech Support Chick” is my most recent experiment where I deliver highly educational content in a very simple, friendly and humorous manner. The analytics for the channel have consistently been in the green for the last 8 months or so and experiencing exponential growth. The response from the audience has been nothing short of amazing.
 
 During my leisure time I enjoy recreational coding, swimming, cycling and writing fiction and essays. Some of my works include Linux for people in a hurry, Tecnología y Humanismo and my first and only novel, which took me only 13 years to complete (heh) Las Aventuras del Zorro Bruno, a novel unfolding the story of a red fox that was accidentally transported to a remote country, forcing him to start anew. While seemingly simple on the surface, like The Little Prince, it reveals deeper layers upon careful reading or a second pass, exploring themes of compassion, relationships, grief, family, resilience, friendship, cooperation, love and hope. I have yet to find an Editor to help me with the overall production to translate it to the English language.
+
+
 Languages:
 
     C
