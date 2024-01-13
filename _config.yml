@@ -1,8 +1,10 @@
 #theme: jekyll-theme-minimal
 title: Alexia
 description: "Mi sitio tiquito"
-typing_text: Linux Geek Lady for 20 ish years.
+typing_text: Your favourite Tech Support Girl.
 email: alexiarstein@aol.com
 github_username: alexiarstein
 twitter_username: alexiarsteinn
-remote_theme: longpdo/neumorphism
+youtube_username: @lachicadesistemas
+instagram_username: lachicadesistemas
+remote_theme: sergiokopplin/indigo
