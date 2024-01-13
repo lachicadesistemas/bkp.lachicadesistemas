@@ -1,4 +1,5 @@
-theme: jekyll-theme-minimal
+remote_theme: sergiokopplin/indigo
+#theme: jekyll-theme-minimal
 title: Alexia
 description: "Mi sitio tiquito"
 #typing_text: Your favourite Tech Support Girl.
@@ -7,4 +8,3 @@ email: alexiarstein@aol.com
 #twitter_username: alexiarsteinn
 #youtube_username: @lachicadesistemas
 #instagram_username: lachicadesistemas
-#remote_theme: sergiokopplin/indigo
