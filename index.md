@@ -1,9 +1,5 @@
 
-Who the Heck is Lexi?
-
-About Me
-
-lexi
+## Who the heck is Lexi?
 
 Hello there! I am Alexia (pronounced ah-LEK-see-ah / IPA: /ɐlˈɛksi‍a/) and I currently work as a Systems Administrator (RHCSA) full time, OpenShift admin and slowly being trusted to direct and plan some large-scale devOps projects in the financial sector.
 
