@@ -17,3 +17,11 @@ plugins:
   - jeckyll-feed
   - jemoji
 
+show-author: true
+animation: true
+defaults:
+  - scope:
+      path: ""
+      layout: "post"
+    values:
+    hidden: false
