@@ -1,4 +1,5 @@
-theme: jekyll-theme-minimal
+#theme: jekyll-theme-minimal
+remote_theme: nielsenramon/chalk
 title: Alexia
 description: "A backend dev who deserted to operations and never went back."
 email: alexiarstein@aol.com
